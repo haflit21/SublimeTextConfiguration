@@ -1,0 +1,28 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2",
+		"ssl-linux"
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"DocBlockr",
+		"Emmet",
+		"Indent XML",
+		"Package Control",
+		"PHP Getters and Setters",
+		"PHP-Twig",
+		"Phpcs",
+		"PhpNamespace",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Theme - Flatland",
+		"TrailingSpaces",
+		"Twig"
+	]
+}
