@@ -1,0 +1,8 @@
+<!-- Packages/User/timing.sublime-snippet -->
+<snippet>
+	<content><![CDATA[
+\$start = microtime();
+dump(microtime() - \$start);
+die;]]></content>
+	<tabTrigger>timing</tabTrigger>
+</snippet>
