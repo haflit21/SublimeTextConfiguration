@@ -1,4 +1,4 @@
-// Packages/User/Base File.sublime-settings - Alignment plugin
+// Packages/User/Base File.sublime-settings
 {
   "jsdocs_spacer_between_sections": true,
   "jsdocs_param_description": false,
